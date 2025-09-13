@@ -1,0 +1,15 @@
+body{
+    color: rgb(0, 148, 247);
+    margin: 5px solid black;
+    border: 20px;
+    padding: 20px;
+}
+
+i{
+    color: slategrey;
+}
+
+li{
+    color: sienna;
+}
+
